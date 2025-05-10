@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title='🎄Growth Mindset', layout='centered')
 
 # Sidebar: Customization
-st.sidebar.markdown('<p class="sidebar-title">🦅 Abdulrehman Shaikh 🦅/p>', unsafe_allow_html=True)
+st.sidebar.markdown('<p class="sidebar-title">🦅 Abdulrehman Shaikh 🦅', unsafe_allow_html=True)
 st.sidebar.markdown('<p class="sidebar-subheader">Welcome to my Streamlit app!</p>', unsafe_allow_html=True)
 
 # 🎨 Color picker for custom highlight
